@@ -1,3 +1,4 @@
 # WeightLess
 Project : WeightLess Fitness App
-The FitappFinalV2 has all the files needed to run the app on android studios, to test the app download the code and open it in andorid studios
+
+The "fitappfinalV2" file contains all the files and source code for the WeightLess app. To run the app just download the "fitappfinalV2" file and open it in android studios.
